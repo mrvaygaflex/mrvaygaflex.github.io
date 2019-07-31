@@ -10,5 +10,5 @@ Size: 4224
 MD5sum: ecd57f1fef1409f4299a21a38b33779e
 Description: This tweak displays a UIView on the dashboard
 Author: mrvayga <mrvaygaflex @gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: 
 
